@@ -48,6 +48,9 @@ https://en.wikipedia.org/wiki/Open-source_ventilator
   - Reusable DIY Cloth Mask with Disposable Middle Layer Filter
   - can even use piece of kitchen towel paper for filter (~N70)
   - Home made masks are not as good as professional masks, but they have some efficiency
+  
+- OPEN SOURCE FACE SHIELD - Face shield from DELVE PROTOTYPING | UW MAKERSPACE
+   - https://www.delve.com/assets/documents/OPEN-SOURCE-FACE-SHIELD-DRAWING-v1.PDF
 
 - [info only] Best Materials for DIY Masks? https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/
   - Cambridge University 
